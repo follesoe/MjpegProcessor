@@ -20,7 +20,8 @@
   "packOptions": {
     "summary": "Library to decode MJPEG Streams.",
     "tags": ["mjpeg", "video", "streaming"],
-    "releaseNotes": "Initial release of .NET Core version of MjpegProcessor",
+    "releaseNotes": "Initial release of .NET Core version of MjpegProcessor.",
+    "licenseUrl": "https://github.com/follesoe/MjpegProcessor/blob/master/LICENSE",
     "projectUrl": "https://github.com/follesoe/MjpegProcessor",
     "owners": ["Jonas Follesø"],
     "repository": {
