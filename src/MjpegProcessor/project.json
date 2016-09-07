@@ -1,4 +1,8 @@
 {
+  "title": "MjpegProcessor",
+  "description": ".NET Core Library to decode MJPEG Streams.",
+  "copyright": "Brian Peek, Jonas Follesø 2016",
+  "authors": ["Brian Peek", "Jonas Follesø"],
   "version": "1.0.0-*",
   "buildOptions": {
     "debugType": "portable"
